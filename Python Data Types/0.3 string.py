@@ -19,3 +19,8 @@ print(company_name_1[:5])
 print(company_name_2[:2])
 print(company_name_1[5:])
 print(company_name_2[1:5])
+print(company_name_1[::2])
+print(company_name_2[0:5:2])
+print(company_name_2[0:5])
+#Reverse the string
+print(company_name_1[::-1])
