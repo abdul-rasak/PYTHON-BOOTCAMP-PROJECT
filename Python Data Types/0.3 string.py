@@ -40,3 +40,4 @@ full_name = my_surename + " " + my_first_name + " " + my_last_name;
 
 #String formarting
 print("My name is {} {} {}".format('Kamoru', 'AbdulRasak', 'Oyinlola' ))
+print("My {T} name is {N}".format(T = "dog", N = "Alex"))
