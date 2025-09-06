@@ -39,5 +39,11 @@ full_name = my_surename + " " + my_first_name + " " + my_last_name;
    #print(full_name.lower())
 
 #String formarting
-print("My name is {} {} {}".format('Kamoru', 'AbdulRasak', 'Oyinlola' ))
-print("My {T} name is {N}".format(T = "dog", N = "Alex"))
+#print("My name is {} {} {}".format('Kamoru', 'AbdulRasak', 'Oyinlola' ))
+#print("My {T} name is {N}".format(T = "dog", N = "Alex"))
+
+answer = 3.2589643
+print("The answer is {a:1.3f}".format(a = answer))
+
+instruction = 'Python rules!'
+print(f"Please follow {instruction}")
