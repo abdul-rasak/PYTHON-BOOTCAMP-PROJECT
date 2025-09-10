@@ -21,3 +21,8 @@ name_list.sort()
 print(num_list)
 print(name_list)
 
+#Nested List
+ordered_list = ["Iphone 16", "Dell Pc",["Destop","Earpods"]]
+print(ordered_list[2][0])
+print(ordered_list[2][1])
+
