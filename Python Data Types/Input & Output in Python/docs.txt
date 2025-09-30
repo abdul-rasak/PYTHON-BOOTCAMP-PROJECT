@@ -1,3 +1,0 @@
-Understanding Input and Output in Python
-This is line 2
-This is line 3
